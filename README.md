@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://github.com/Ran1mo/SlashCommandPackage" target="_blank">
-        <img src="https://raw.githubusercontent.com/muhamdaily/assets/29cfa5fdbe0868697cd29e12b748607d8a3c5223/djs.svg" alt="Logo">
-    </a>
-</p>
-
 <div align="center">
 
 # Slash Command Package
